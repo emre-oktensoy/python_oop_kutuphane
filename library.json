@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Book",
+        "title": "test",
+        "author": "emre",
+        "isbn": "123"
+    },
+    {
+        "type": "AudioBook",
+        "title": "test3",
+        "author": "hakan",
+        "isbn": "564",
+        "duration_in_minutes": 43,
+        "narrator": "semen"
+    },
+    {
+        "type": "Book",
+        "title": "test4",
+        "author": "hakan",
+        "isbn": "456"
+    }
+]
