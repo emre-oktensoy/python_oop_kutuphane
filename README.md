@@ -17,7 +17,7 @@ Bu proje, Python kullanılarak nesne yönelimli programlama (OOP) prensipleri il
   # Sanal ortamı aktifleştir (Windows)
   venv\Scripts\ativate
   
-  # Sanal ortamı aktifleştir
+  # Gerekli paketleri yükle
   pip install pydantic pytest
 
 # ▶️ Çalıştırma
