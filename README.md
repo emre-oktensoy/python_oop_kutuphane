@@ -1,6 +1,6 @@
 # 📚 Python OOP Kütüphane Projesi
 
-Bu proje, Python kullanılarak nesne yönelimli programlama (OOP) prensipleri ile geliştirilmiş bir kütüphane yönetim sistemi üç aşamalı ve her aşamasında ayrı özellikler eklenerek geliştirilmiştir. Her aşama aşağıda belirtilmiştir.
+Bu proje, Python kullanılarak nesne yönelimli programlama (OOP) prensipleri ile geliştirilmiş bir kütüphane yönetim sistemi dlup üç aşamalı ve her aşamasında ayrı özellikler eklenerek geliştirilmiştir. Her aşama aşağıda belirtilmiştir.
 
 
 # Proje Aşama-2
