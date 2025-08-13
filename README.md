@@ -15,13 +15,13 @@ Bu proje, Python kullanılarak nesne yönelimli programlama (OOP) prensipleri il
   # Sanal ortamı aktifleştir (Mac)
   source venv/bin/activate
   # Sanal ortamı aktifleştir (Windows)
-  venv\Scripts\ativate
+  .\.venv\Scripts\activate
   
   # Gerekli paketleri yükle
   pip install pydantic pytest
 
 # ▶️ Çalıştırma
-.\.venv\Scripts\activate
+python main.py
 
 # 🧪 Test Çalıştırma
 pytest
