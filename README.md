@@ -9,7 +9,7 @@ Bu proje, Python kullanılarak nesne yönelimli programlama (OOP) prensipleri il
 - Kitap ekleme, silme, listeleme
 - Testler (pytest ile)
 - Open Library Books API kullanılarak kitap bilgisinin alınması ve json dosyasına kayıt işlemi
--Pydantic ile veri doğrulama 
+- Pydantic ile veri doğrulama 
 
 # 📦 Kurulum
 
