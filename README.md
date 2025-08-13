@@ -21,7 +21,7 @@ Bu proje, Python kullanılarak nesne yönelimli programlama (OOP) prensipleri il
   pip install pydantic pytest
 
 # ▶️ Çalıştırma
-python main.py
+.\.venv\Scripts\activate
 
 # 🧪 Test Çalıştırma
 pytest
