@@ -33,12 +33,12 @@ API Endpoint Listesi – Library API
 - Amaç: Kütüphanedeki tüm kitapları listeler.
 - Yanıt: JSON formatında kitap listesi.
 
-  🔹 POST /books
+🔹 POST /books
 - Amaç: ISBN numarasına göre Open Library API'den kitap bilgisi alır ve kütüphaneye ekler.
 - Örnek Body Yapısı:{"isbn": "9780140328721"}
 - Yanıt: Eklenen kitabın bilgileri.
 
-  🔹DELETE /books/{isbn}
+🔹DELETE /books/{isbn}
 - Amaç: Belirtilen ISBN numarasına sahip kitabı kütüphaneden siler.
 - Parametre: isbn (örneğin: 9780140328721)
 - Yanıt: 204 No Content (başarılı silme) 
