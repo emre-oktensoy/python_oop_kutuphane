@@ -46,6 +46,12 @@ API Endpoint Listesi – Library API
 
 # 🧪 Test Çalıştırma
  pytest .\test_api.py
+ 
+<img width="1913" height="940" alt="image" src="https://github.com/user-attachments/assets/4294d90f-64e6-43d1-9ce6-09bfc695c7fb" />
+<img width="1554" height="981" alt="image" src="https://github.com/user-attachments/assets/83eb61a4-c81f-44b8-b0af-a977905b3144" />
+<img width="1469" height="965" alt="image" src="https://github.com/user-attachments/assets/fb9bfbac-cc90-4962-81ce-bb70bb024981" />
+<img width="1460" height="909" alt="image" src="https://github.com/user-attachments/assets/0cdb63e1-5870-4bc3-b083-fecf7a018129" />
+
 
 # Proje Aşama-2
 
